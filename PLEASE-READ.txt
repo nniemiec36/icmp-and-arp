@@ -1,0 +1,11 @@
+Hello! To make it easier, Part A is in one folder and Part B is in another folder (mainly because of the README's)
+
+To run the pinger:
+
+cd pinger
+* follow README instructions *
+
+To run PCAP ARP Analysis:
+
+cd analysis_pcap_arp
+* follow README instructions *
